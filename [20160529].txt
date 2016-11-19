@@ -1,3 +1,0 @@
-
-Konw how to use TableDrive instead of "if ...elseif...elseif...".
-This is a big promotion!
